@@ -2,7 +2,7 @@
 
 This repo is part of my [capstone project](https://github.com/DanWang1230/Capstone_Programming_A_Self_Driving_Car) in Udacity's nano degree of self-driving car. The goal is to use a classifier to detect the traffic light colors. I used a pretrained model in the [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Especially, I fine-tuned a `faster_rcnn_resnet101_coco` model using a [customized dataset](https://github.com/DanWang1230/creating_dataset_TFRecord).
 
-I found [this](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone) github repo and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful.
+I found [this](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone) and [this](https://github.com/vatsl/TrafficLight_Detection-TensorFlowAPI) github repos and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful.
 
 ---
 ## Pipeline
