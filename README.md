@@ -24,7 +24,7 @@ sudo pip install lxml
 sudo pip install jupyter
 sudo pip install matplotlib
 ```
-A tutorial in `models/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb` can be helpful. 
+The tutorial in `models/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb` can be helpful. 
 
 ### 3. Compile Protobuf and Add libraries to PYTHONPATH
 
